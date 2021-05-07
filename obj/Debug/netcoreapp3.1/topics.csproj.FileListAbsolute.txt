@@ -1,0 +1,13 @@
+C:\Users\lenov0\source\repos\topics\obj\Debug\netcoreapp3.1\topics.csprojAssemblyReference.cache
+C:\Users\lenov0\source\repos\topics\obj\Debug\netcoreapp3.1\topics.AssemblyInfoInputs.cache
+C:\Users\lenov0\source\repos\topics\obj\Debug\netcoreapp3.1\topics.AssemblyInfo.cs
+C:\Users\lenov0\source\repos\topics\obj\Debug\netcoreapp3.1\topics.csproj.CoreCompileInputs.cache
+C:\Users\lenov0\source\repos\topics\bin\Debug\netcoreapp3.1\topics.exe
+C:\Users\lenov0\source\repos\topics\bin\Debug\netcoreapp3.1\topics.deps.json
+C:\Users\lenov0\source\repos\topics\bin\Debug\netcoreapp3.1\topics.runtimeconfig.json
+C:\Users\lenov0\source\repos\topics\bin\Debug\netcoreapp3.1\topics.runtimeconfig.dev.json
+C:\Users\lenov0\source\repos\topics\bin\Debug\netcoreapp3.1\topics.dll
+C:\Users\lenov0\source\repos\topics\bin\Debug\netcoreapp3.1\topics.pdb
+C:\Users\lenov0\source\repos\topics\obj\Debug\netcoreapp3.1\topics.dll
+C:\Users\lenov0\source\repos\topics\obj\Debug\netcoreapp3.1\topics.pdb
+C:\Users\lenov0\source\repos\topics\obj\Debug\netcoreapp3.1\topics.genruntimeconfig.cache
